@@ -3,10 +3,6 @@
     font-family: sans-serif;
 }
 
-body{
-    background-color: white;
-}
-
 .wrapper{
     background-color: rgb(34, 51, 59);
     width: 80%;
@@ -90,4 +86,23 @@ input {
 #zoeken{
     color: white;
     background-color: rgb(94, 80, 63);
+}
+
+.button-34 {
+    background: #5E5DF0;
+    border-radius: 999px;
+    box-shadow: #5E5DF0 0 10px 20px -10px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -moz-user-select-webkit-user-select: none;
+    touch-action: auto;
+    width: fit-content;
+    word-break: break-all;
+    border: 0;
 }
